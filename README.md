@@ -13,7 +13,7 @@
 ### Clone this repository in your terminal:
 ***
 
-$ git clone https://github.com/Byenkya/AirBnB_clone.git
+$ git clone https://github.com/As1imwe-Mark/AirBnB_clone.git
 $ cd AirBnB_clone
 ---
 # Execution
@@ -70,6 +70,6 @@ EOF  all  create  destroy  help  quit  show  update
  ```
 # Authors
 ***
-  * Byenkya Joshua Aaron
-  * Godwin Brown
+  * Asiimwe Mark 
+  * Ayikobua Ferdinant 
 ---
